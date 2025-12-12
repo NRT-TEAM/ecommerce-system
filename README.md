@@ -1,7 +1,7 @@
 # E-Commerce API Template  
 **ASP.NET Core 9 Web API + React.js Frontend (Full-Stack Prototype)**
 
-[![.NET 9](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![.NET 8](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
